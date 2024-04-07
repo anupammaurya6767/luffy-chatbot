@@ -1,5 +1,5 @@
 {
-  "name": "luffy-chatbot",
+  "name": "luffy-bot",
   "version": "1.0.0",
   "description": "The Luffy Chatbot npm package offers a streamlined way to integrate conversational AI into Node.js applications. With Luffy, developers can effortlessly send messages to the chatbot and receive responses programmatically, enabling the creation of engaging chat interfaces and automated support systems. Built with simplicity and scalability in mind, Luffy abstracts away the complexities of managing the chatbot backend, allowing developers to focus on building interactive user experiences.",
   "main": "index.js",
