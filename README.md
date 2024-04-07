@@ -1,5 +1,5 @@
 # Luffy Chatbot 🤖
-<img align='right' src="https://github.com/anupammaurya6767/Demon_connect/blob/main/assets/main.png" width="230">
+<img align='right' src="https://github.com/anupammaurya6767/luffy-chatbot/blob/main/assets/luffy_chatbot.png" width="230">
 
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
