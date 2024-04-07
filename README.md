@@ -24,7 +24,7 @@ The **Luffy Chatbot** npm package provides an easy-to-use interface for interact
 To install Luffy Chatbot, simply run the following command:
 
 ```bash
-npm install luffy-chatbot
+npm install @tanjiro/luffy-chatbot
 ```
 
 ## Usage
@@ -34,7 +34,7 @@ To use Luffy Chatbot in your Node.js project, follow these steps:
 1. Require the Luffy class in your code:
 
 ```javascript
-const Luffy = require('luffy-chatbot');
+const Luffy = require('@tanjiro/luffy-chatbot');
 ```
 
 2. Initialize a new instance of the Luffy class:
