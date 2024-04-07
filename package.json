@@ -1,0 +1,17 @@
+{
+  "name": "luffy-chatbot",
+  "version": "1.0.0",
+  "description": "A chatbot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "luffy",
+    "chatbot"
+  ],
+  "author": "Tanjiro",
+  "dependencies": {
+    "axios": "^1.6.8"
+  }
+}
