@@ -61,13 +61,13 @@ Contributions are welcome! If you find a bug or have an enhancement idea, please
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[contributors-shield]: https://img.shields.io/github/contributors/your_username/luffy-chatbot.svg?style=for-the-badge
-[contributors-url]: https://github.com/your_username/luffy-chatbot/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/your_username/luffy-chatbot.svg?style=for-the-badge
-[forks-url]: https://github.com/your_username/luffy-chatbot/network/members
-[stars-shield]: https://img.shields.io/github/stars/your_username/luffy-chatbot.svg?style=for-the-badge
-[stars-url]: https://github.com/your_username/luffy-chatbot/stargazers
-[issues-shield]: https://img.shields.io/github/issues/your_username/luffy-chatbot.svg?style=for-the-badge
-[issues-url]: https://github.com/your_username/luffy-chatbot/issues
-[license-shield]: https://img.shields.io/github/license/your_username/luffy-chatbot.svg?style=for-the-badge
-[license-url]: https://github.com/your_username/luffy-chatbot/blob/main/LICENSE
+[contributors-shield]: https://img.shields.io/github/contributors/anupammaurya6767/luffy-chatbot.svg?style=for-the-badge
+[contributors-url]: https://github.com/anupammaurya6767/luffy-chatbot/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/anupammaurya6767/luffy-chatbot.svg?style=for-the-badge
+[forks-url]: https://github.com/anupammaurya6767/luffy-chatbot/network/members
+[stars-shield]: https://img.shields.io/github/stars/anupammaurya6767/luffy-chatbot.svg?style=for-the-badge
+[stars-url]: https://github.com/anupammaurya6767/luffy-chatbot/stargazers
+[issues-shield]: https://img.shields.io/github/issues/anupammaurya6767/luffy-chatbot.svg?style=for-the-badge
+[issues-url]: https://github.com/anupammaurya6767/luffy-chatbot/issues
+[license-shield]: https://img.shields.io/github/license/anupammaurya6767/luffy-chatbot.svg?style=for-the-badge
+[license-url]: https://github.com/anupammaurya6767/luffy-chatbot/blob/main/LICENSE
